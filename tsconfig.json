@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "target": "es5", // Ensure compatibility with client-side JavaScript
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "
